@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daywison</h1>
 <h3 align="center">A passionate frontend developer from Brasil, and I love CSS</h3>
 
-- 🔭 I’m currently working on **Leal Sistemas**
+- 🔭 I’m currently working on **Flapper**
 
 - 🌱 I’m currently learning **vue.js, quasar, sass**
 
