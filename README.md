@@ -22,6 +22,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daywisonsilva&layout=compact" alt="languages most used"/>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=DaywisonSilva)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
