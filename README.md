@@ -19,7 +19,7 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=daywisonsilva&show_icons=true&theme=radical" alt="info github"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daywisonsilva&layout=compact" alt="languages most used"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daywisonsilva&layout=compac&theme=dracula" alt="languages most used"/>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=daywisonsilva&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
