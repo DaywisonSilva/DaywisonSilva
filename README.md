@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flapper**
 
-- 🌱 I’m currently learning **vue.js, quasar, sass**
+- 🌱 I’m currently learning **react.js, flutter, next.js**
 
 - 💬 Ask me about **html, css, javascript, vue, sass**
 
@@ -20,4 +20,8 @@
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=daywisonsilva&show_icons=true&theme=radical" alt="info github"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daywisonsilva&layout=compact" alt="languages most used"/>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  ![trophy](https://github-profile-trophy.vercel.app/?username=DaywisonSilva)
 </div>
