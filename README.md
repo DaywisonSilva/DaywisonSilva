@@ -23,5 +23,5 @@
 </div>
 
 <div style="display: flex; justify-content: center;">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=DaywisonSilva)
+  [![trophy]](https://github-profile-trophy.vercel.app/?username=DaywisonSilva)
 </div>
