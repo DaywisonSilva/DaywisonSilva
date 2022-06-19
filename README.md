@@ -7,5 +7,5 @@
 
 <p align="end">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=daywisonSilva&count_private=true&include_all_commits=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daywisonSilva&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daywisonSilva&hide=html&layout=compact&theme=dracula" />
 </p>
